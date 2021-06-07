@@ -17,4 +17,5 @@ ArcGIS Desktop 10.0+ with Network Analyst Extension
 
 Download and extract "MultimodalCUHK.zip", open "CUHK_Shortest_Path.mxd" in ArcMap and open the tool inside "cuhk.tbx" in ArcCatalog
 
-
+![Screenshot (20)](https://user-images.githubusercontent.com/68047356/121054582-13e7c680-c7ef-11eb-8302-2e60c048d972.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/68047356/121054599-16e2b700-c7ef-11eb-9f8d-99536a44470a.png)
