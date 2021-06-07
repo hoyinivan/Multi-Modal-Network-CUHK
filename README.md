@@ -11,7 +11,7 @@ Story Map presentation: https://www.arcgis.com/apps/Cascade/index.html?appid=28a
 
 # Requirement
 
-ArcGIS Desktop 10.0+ with Network Analyst Extension
+ArcMap 10.0+ with Network Analyst Extension (ArcGIS Desktop)
 
 # How to use
 
